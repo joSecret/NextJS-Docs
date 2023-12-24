@@ -10,9 +10,9 @@ module.exports = {
   },
   project: {
     name: "CornDocs",
-    url: "https://www.corndocs.com",
+    url: "https://josecret.github.io/NextJS-Docs/",
     github: {
-      repo: "https://github.com/dishwasher-detergent/CornDocs",
+      repo: "https://github.com/joSecret/NextJS-Docs",
       usesMain: false,
     },
     logo: {
